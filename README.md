@@ -1,2 +1,4 @@
 # nitrogit-support
-Support issues for nitrogiet.net - Git GUI for Windows.
+
+Support issues for [nitrogit.net](http://nitrogit.net/) - a Git GUI client for Windows.
+
